@@ -1,0 +1,7 @@
+{
+	"command_name" : "run_sutil",
+	"sutil" : {
+		"name" : "foo",
+		"script" : "bar; bar; bar;"
+	}
+}
